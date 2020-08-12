@@ -11,13 +11,13 @@ namespace rumahsakit
         public string biodataPasien()
         {
             nomorhp = "0811";
-            Console.WriteLine("Nomor HP    : " + nomorhp);
+            Console.WriteLine("Nomor HP       : " + nomorhp);
             nomorID = "A0001";
-            Console.WriteLine("Nomor ID    : " + nomorID);
+            Console.WriteLine("Nomor ID       : " + nomorID);
             riwayatPasien = "Bingung";
-            Console.WriteLine("Keluhan     : " + riwayatPasien);
+            Console.WriteLine("Riwayat Pasien : " + riwayatPasien);
             bangsal = "Dua";
-            Console.WriteLine("Bangsal     : " + bangsal);
+            Console.WriteLine("Bangsal        : " + bangsal);
             blank = " ";
             Console.WriteLine(blank);
             return blank;

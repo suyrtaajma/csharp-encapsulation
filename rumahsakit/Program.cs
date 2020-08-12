@@ -11,14 +11,14 @@ namespace rumahsakit
             //objek pasien
             pasien pasien1 = new pasien();
             pasien1.nama = "Paisen";
-            Console.WriteLine("Nama Pasien : " + pasien1.nama);
+            Console.WriteLine("Nama Pasien    : " + pasien1.nama);
             //memanggil bio pasyen
             Console.WriteLine(pasien1.biodataPasien());
 
             //objek dokter
             dokter doktor = new dokter();
             doktor.nama = "Dr. Jiwa";
-            Console.WriteLine("Nama Dokter : " + doktor.nama);
+            Console.WriteLine("Nama Dokter    : " + doktor.nama);
             //memanggil bio dokter
             Console.WriteLine(doktor.biodataDokter());
 
