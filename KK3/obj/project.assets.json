@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yursaa\\source\\repos\\latihanenkapsulasi\\latihanenkapsulasi\\latihanenkapsulasi.csproj",
-      "projectName": "latihanenkapsulasi",
-      "projectPath": "C:\\Users\\yursaa\\source\\repos\\latihanenkapsulasi\\latihanenkapsulasi\\latihanenkapsulasi.csproj",
+      "projectUniqueName": "C:\\Users\\yursaa\\source\\repos\\KK3\\KK3\\KK3.csproj",
+      "projectName": "KK3",
+      "projectPath": "C:\\Users\\yursaa\\source\\repos\\KK3\\KK3\\KK3.csproj",
       "packagesPath": "C:\\Users\\yursaa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yursaa\\source\\repos\\latihanenkapsulasi\\latihanenkapsulasi\\obj\\",
+      "outputPath": "C:\\Users\\yursaa\\source\\repos\\KK3\\KK3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yursaa\\AppData\\Roaming\\NuGet\\NuGet.Config",

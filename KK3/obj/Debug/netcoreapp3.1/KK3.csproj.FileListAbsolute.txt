@@ -1,0 +1,13 @@
+C:\Users\yursaa\source\repos\KK3\KK3\bin\Debug\netcoreapp3.1\KK3.exe
+C:\Users\yursaa\source\repos\KK3\KK3\bin\Debug\netcoreapp3.1\KK3.deps.json
+C:\Users\yursaa\source\repos\KK3\KK3\bin\Debug\netcoreapp3.1\KK3.runtimeconfig.json
+C:\Users\yursaa\source\repos\KK3\KK3\bin\Debug\netcoreapp3.1\KK3.runtimeconfig.dev.json
+C:\Users\yursaa\source\repos\KK3\KK3\bin\Debug\netcoreapp3.1\KK3.dll
+C:\Users\yursaa\source\repos\KK3\KK3\bin\Debug\netcoreapp3.1\KK3.pdb
+C:\Users\yursaa\source\repos\KK3\KK3\obj\Debug\netcoreapp3.1\KK3.AssemblyInfoInputs.cache
+C:\Users\yursaa\source\repos\KK3\KK3\obj\Debug\netcoreapp3.1\KK3.AssemblyInfo.cs
+C:\Users\yursaa\source\repos\KK3\KK3\obj\Debug\netcoreapp3.1\KK3.csproj.CoreCompileInputs.cache
+C:\Users\yursaa\source\repos\KK3\KK3\obj\Debug\netcoreapp3.1\KK3.dll
+C:\Users\yursaa\source\repos\KK3\KK3\obj\Debug\netcoreapp3.1\KK3.pdb
+C:\Users\yursaa\source\repos\KK3\KK3\obj\Debug\netcoreapp3.1\KK3.genruntimeconfig.cache
+C:\Users\yursaa\source\repos\KK3\KK3\obj\Debug\netcoreapp3.1\KK3.csprojAssemblyReference.cache
